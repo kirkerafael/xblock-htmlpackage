@@ -1,0 +1,13 @@
+setup.py
+htmlpackage/__init__.py
+htmlpackage/htmlpackage.py
+htmlpackage/static/README.txt
+htmlpackage/static/css/htmlpackage.css
+htmlpackage/static/html/htmlpackage.html
+htmlpackage/static/js/src/htmlpackage.js
+htmlpackage_xblock.egg-info/PKG-INFO
+htmlpackage_xblock.egg-info/SOURCES.txt
+htmlpackage_xblock.egg-info/dependency_links.txt
+htmlpackage_xblock.egg-info/entry_points.txt
+htmlpackage_xblock.egg-info/requires.txt
+htmlpackage_xblock.egg-info/top_level.txt

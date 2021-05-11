@@ -1,0 +1,10 @@
+{% load i18n %}
+
+<div class="htmlpackage_block">
+    {% if zip_file_path %}
+    <iframe class="htmlpackage_object"
+            src="{{ zip_file_path }}"
+            width="{% if htmlpackage_xblock.width %}{{ htmlpackage_xblock.width }}{% else %}100%{% endif %}"
+            height="{{ htmlpackage_xblock.height }}"></iframe>
+    {% endif %}
+</div>
